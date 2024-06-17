@@ -11,7 +11,7 @@ This Python program slices multiple frames from a given video and extracts the c
 ## Usage
 1. Place your video file and subtitle file in the same directory as the script.
 2. Run the script:
-```Python
+```bash
 python slice_and_extract.py --video_path <path_to_video> --srt_path <path_to_srt> --num_frames <number_of_extracted_frames> --output_paht <path_to_output>
 ```
 
