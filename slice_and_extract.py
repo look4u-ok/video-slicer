@@ -115,6 +115,6 @@ def parse_args():
 
 if __name__ == "__main__":
     args = parse_args()
-    slice_frames(args.video_path, args.num_frames, args.output_path, args.srt_path)
+    slice_frames(args.video_path, args.srt_path, args.num_frames, args.output_path)
 
 
