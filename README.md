@@ -1,5 +1,5 @@
 # Video Frame Slicer and Subtitle Extractor
-This project is a homework assignment for an online Python Programming class. **Wish I could get good scores**.
+
 ## Overview
 This Python program slices multiple frames from a given video and extracts the corresponding subtitles from an SRT file. It uses OpenCV for video processing and the pysubs2 library for subtitle parsing. 
 
